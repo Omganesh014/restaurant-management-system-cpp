@@ -1,0 +1,14 @@
+************************************* Invoked: Wed Jan 7 00:54:43 2026
+[0] Arguments: C:\Users\omgan\AppData\Local\Temp\WinGet\MSYS2.MSYS2.20251213\msys2-x86_64-20251213.exe, install, --confirm-command, --root, C:\msys64
+[8] Operations sanity check succeeded.
+[31] Using metadata cache from "C:/Users/omgan/AppData/Local/cache\\qt-installer-framework\\d75f1c19-3379-3717-ae8d-1404b51494a9"
+[31] Found 0 cached items.
+[36] Loaded control script ":/metadata/installer-config/control_js"
+[37] TargetDirectoryInUse : Error : The directory you selected already exists and contains an installation. Choose a different target for installation.
+************************************* Invoked: Wed Jan 7 01:00:35 2026
+[0] Arguments: C:\Users\omgan\AppData\Local\Temp\WinGet\MSYS2.MSYS2.20251213\msys2-x86_64-20251213.exe, install, --confirm-command, --root, C:\msys64
+[6] Operations sanity check succeeded.
+[14] Using metadata cache from "C:/Users/omgan/AppData/Local/cache\\qt-installer-framework\\d75f1c19-3379-3717-ae8d-1404b51494a9"
+[14] Found 0 cached items.
+[21] Loaded control script ":/metadata/installer-config/control_js"
+[22] TargetDirectoryInUse : Error : The directory you selected already exists and contains an installation. Choose a different target for installation.

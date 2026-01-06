@@ -1,0 +1,5 @@
+{
+  "name": "DineFlow MVP - Restaurant Management System",
+  "description": "A streamlined frontend MVP for managing restaurant operations including customers, menu, orders, kitchen workflow, and billing, designed to interface with a C++ backend.",
+  "requestFramePermissions": []
+}

@@ -1,0 +1,13 @@
+# Build artifacts
+restaurant_system
+restaurant_system.exe
+*.obj
+*.o
+*.out
+*.log
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

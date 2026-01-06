@@ -1,0 +1,26 @@
+{
+  "name": "restaurant-system",
+  "version": "1.0.0",
+  "description": "Full-stack restaurant ordering system (C++ backend + React frontend)",
+  "private": true,
+  "workspaces": [
+    "frontend"
+  ],
+  "scripts": {
+    "dev": "cd frontend && npm run dev",
+    "build": "cd frontend && npm run build",
+    "preview": "cd frontend && npm run preview",
+    "install:all": "npm install && cd frontend && npm install --legacy-peer-deps",
+    "backend:build": "echo 'See ERROR_RESOLUTION_REPORT.md for C++ compilation instructions'",
+    "backend:run": "echo 'Run: ./restaurant_system.exe (after compilation)'"
+  },
+  "keywords": [
+    "restaurant",
+    "ordering",
+    "c++",
+    "react",
+    "typescript"
+  ],
+  "author": "",
+  "license": "MIT"
+}
