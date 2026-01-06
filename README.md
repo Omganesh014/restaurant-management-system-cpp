@@ -2,7 +2,7 @@
 
 ## 👤 Author
 
-Om Ganesh
+Omganesh Matiwade
 Computer Science & Engineering
 Focus: C++, Data Structures, System Design
 
