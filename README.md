@@ -3,7 +3,9 @@
 ## 👤 Author
 
 Omganesh Matiwade
+
 Computer Science & Engineering
+
 Focus: C++, Data Structures, System Design
 
 A comprehensive Restaurant Management System implemented in C++ with a strong focus on
@@ -123,7 +125,9 @@ Current: CLI
 Extensible: Web / GUI / API interfaces
 
 ## 🚀 Build & Run
+
 g++ -std=c++17 -Wall -O2 src/*.cpp main.cpp -o restaurant_system
+
 ./restaurant_system
 
 ## 🎯 Learning Outcomes
@@ -141,7 +145,6 @@ Gained experience in system-level software design
 ## 📌 Note
 
 The project was initially implemented as a single-file academic submission and later refactored into a modular full-stack architecture to reflect real-world production practices.
-
 
 
 ## 🏗️ System Architecture
