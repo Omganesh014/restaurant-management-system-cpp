@@ -36,21 +36,38 @@ This project demonstrates a clear transition from **academic programming** to **
 
 ## ⚙️ Backend Architecture (C++)
 ProjectRoot
+
+
 │
+
 ├── include/
+
 │   ├── Common.h           // Shared enums, constants
+
 │   ├── Logger.h           // Logging system
+
 │   ├── Models.h           // Domain entities
+
 │   ├── DataStructures.h   // AVL, Heap, Hash, LRU Cache
+
 │   └── Algorithms.h       // Sorting, Searching, Graph algorithms
+
 │
+
 ├── src/
+
 │   ├── Logger.cpp
+
 │   ├── OrderService.cpp
+
 │   ├── InventoryService.cpp
+
 │   ├── AnalyticsEngine.cpp
+
 │   └── DeliveryManager.cpp
+
 │
+
 └── main.cpp               // Application entry point
 
 ---
