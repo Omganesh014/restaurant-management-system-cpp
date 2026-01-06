@@ -6,8 +6,24 @@ restaurant_system.exe
 *.out
 *.log
 
+# Node/Frontend
+node_modules/
+dist/
+frontend/dist/
+frontend/node_modules/
+
 # OS/editor
 .DS_Store
 Thumbs.db
 .vscode/
 .idea/
+*.swp
+*.swo
+
+# Environment
+.env.local
+.env
+
+# Temp files
+tmp.cpp
+
